@@ -1,6 +1,6 @@
 # Hello (Micro:Bit) World! #
 
-## Step 3 - The Basic Toolbox ##
+## Step 4 - The Basic Toolbox ##
 
 Click the "Basic" section in the toolbox
 

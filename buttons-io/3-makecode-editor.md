@@ -1,4 +1,4 @@
-# Hello (Micro:Bit) World! #
+# Buttons and I/O #
 
 ## Step 3 - The MakeCode Editor ##
 
@@ -10,4 +10,4 @@ The MakeCode Editor will be shown
 
 | Previous | Next |
 | -------- | ---- |
-| [< Step 2 - New Project](2-new-project.md) | [Step 4 - Basic Toolbox >](4-basic-toolbox.md) |
+| [< Step 2 - New Project](2-new-project.md) | [Step 4 - Input Toolbox >](4-input-toolbox.md) |
