@@ -34,4 +34,4 @@
 
 | Previous | Next |
 | -------- | ---- |
-| [< Step 8 - Pin 0 Pressed](8-pin-0-pressed.md) | [ Introduction >](/README.md) |
+| [< Step 8 - Pin 0 Pressed](8-pin-0-pressed.md) | [ Step 10 - Save Project >](10-save-project.md) |
