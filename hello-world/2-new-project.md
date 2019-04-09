@@ -10,4 +10,4 @@ Click the "New Project Button"
 
 | Previous | Next |
 | -------- | ---- |
-| [< Step 1 - Open MakeCode](README.md) | [Step 3 - Basic Toolbox >](3-basic-toolbox.md) |
+| [< Step 1 - Open MakeCode](README.md) | [Step 3 - MakeCode Editor >](3-makecode-editor.md) |
