@@ -10,4 +10,4 @@ Goto [MakeCode](https://makecode.microbit.org)
 
 | Previous | Next |
 | -------- | ---- |
-| [< Introduction](/README.md) | [Step 2 - MakeCode Editor >](2-makecode-editor.md) |
+| [< Introduction](/README.md) | [Step 2 - MakeCode Editor >](2-new-project.md) |
