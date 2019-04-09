@@ -2,7 +2,8 @@
 
 ## Step 5 - View the Result ##
 
-Click the "Basic" section in the toolbox
+- Drag a "Show Icon" Block onto the "On Start" block.
+- Wait for the Micro:Bit Simulator to update and show the result.
 
 <p align="center">
     <img src="images/5-showicon.jpg" width="500px" >
