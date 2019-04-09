@@ -11,4 +11,4 @@
 
 | Previous | Next |
 | -------- | ---- |
-| [< Step 4 - Basic Toolbox](4-basic-toolbox.md) | [ Introduction >](/README.md) |
+| [< Step 4 - Basic Toolbox](4-basic-toolbox.md) | [ Step 6 - Save Project >](6-save-project.md) |
