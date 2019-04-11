@@ -10,4 +10,4 @@ The MakeCode Editor will be shown;
 
 | Previous | Next |
 | -------- | ---- |
-| [< Step 2 - New Project](2-new-project.md) | [Step 4 - logic Toolbox >](4-logic-toolbox.md) |
+| [< Step 2 - New Project](2-new-project.md) | [Step 4 - Logic Toolbox >](4-logic-toolbox.md) |
