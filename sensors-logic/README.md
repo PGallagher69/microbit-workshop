@@ -1,4 +1,13 @@
-# Snesors #
+# Sensors and Logic #
+
+In this section we're going to be reading the various sensors built into the Micro:bit;
+
+- Accelerometer
+- Light Level
+- Compass
+- Temperature
+
+----
 
 ## Step 1 - Return to MakeCode ##
 

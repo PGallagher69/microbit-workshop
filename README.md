@@ -13,3 +13,4 @@ Welcome to the Workshop Instructions for the "BBC Micro:Bit - It does (way) more
 
 1. [Hello (Micro:Bit) World!](/hello-world/README.md)
 2. [Buttons and I/O](/buttons-io/README.md)
+2. [Sensors and Logic](/sensors-logic/README.md)
