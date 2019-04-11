@@ -97,7 +97,7 @@ Likewise, letting the Micro:Bit return to centre clears the screen as expected.
 - Dragging the Bar to the Top will give a reading of 50°, anything over 30° will show the icon you chose for the Temperature Threshold;
 
 <p align="center">
-    <img src="images/12-microbit-extra-icons-compass-max.jpg" width="250px" >
+    <img src="images/12-microbit-extra-icons-temp-max.jpg" width="250px" >
 </p>
 
 - Dragging the Temperature Bar back down will clear the screen again.
