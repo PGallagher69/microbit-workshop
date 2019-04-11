@@ -104,4 +104,4 @@ https://lancaster-university.github.io/microbit-docs/extras/light-sensing/
 
 | Previous | Next |
 | -------- | ---- |
-| [< Step 7 - Add Acceleration Value](7-add-acceleration-value.md) | [Step 9 - Add Acceleration Value >](9-add-compass-value.md) |
+| [< Step 7 - Add Acceleration Value](7-add-acceleration-value.md) | [Step 9 - Add Compass Value >](9-add-compass-value.md) |
