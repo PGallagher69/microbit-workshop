@@ -10,4 +10,4 @@ Click the "Logic" section in the toolbox
 
 | Previous | Next |
 | -------- | ---- |
-| [< Step 3 - MakeCode Editor](3-makecode-editor.md) | [Step 5 - Add If Else Block >](5-button-a-pressed.md) |
+| [< Step 3 - MakeCode Editor](3-makecode-editor.md) | [Step 5 - Add If Else Block >](5-if-else-block.md) |
