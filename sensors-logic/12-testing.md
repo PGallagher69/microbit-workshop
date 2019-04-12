@@ -102,6 +102,10 @@ Likewise, letting the Micro:Bit return to centre clears the screen as expected.
 
 - Dragging the Temperature Bar back down will clear the screen again.
 
+## Save your Project ##
+
+- Once again, enter a name for your project, hit the Save Button and save the HEX file to a location on your computer.
+
 | Previous | Next |
 | -------- | ---- |
 | [< Step 11 - Add Clear Screen](11-add-clear-screen.md) | [ Introduction >](/README.md) |
