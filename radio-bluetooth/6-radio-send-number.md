@@ -38,7 +38,7 @@
 
 - Here's an example;
 
-https://makecode.microbit.org/---codeembed#pub:_MKv6dt6YHLmF
+https://makecode.microbit.org/_T5UaoK9R3d5z
 
 | Previous | Next |
 | -------- | ---- |
