@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="MicrobitBluetooth.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MicrobitBluetooth"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Button x:ConnectionId='2' x:Name="cmdDisconecct" Content="Disconnect" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="174,107,0,0"/>
+        <Button x:ConnectionId='3' x:Name="cmdConnect" Content="Connect" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="50,106,0,0"/>
+
+    </Grid>
+</Page>
+

@@ -16,7 +16,7 @@
     <img src="images/6-radio-send-number-block.jpg" width="250px" >
 </p>
 
-- You should now see that two Micro:Bits have appeared in the Simulator section, and that both Micro:Bits are displaying a 0; 
+- You should now have something resembling the following; 
 
 <p align="center">
     <img src="images/6-radio-send-number-block-placed.jpg" width="500px" >
