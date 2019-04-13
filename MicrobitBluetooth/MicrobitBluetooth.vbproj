@@ -141,6 +141,7 @@
       <SubType>Designer</SubType>
     </AppxManifest>
     <None Include="MicrobitBluetooth_TemporaryKey.pfx" />
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="My Project\Default.rd.xml" />

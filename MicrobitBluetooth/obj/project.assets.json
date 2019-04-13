@@ -27914,11 +27914,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\My Documents\\Visual Basic\\MicrobitBluetooth\\MicrobitBluetooth\\MicrobitBluetooth.vbproj",
+      "projectUniqueName": "D:\\Dropbox\\PJG Creations\\Presentations\\MicroBit - April 2019\\Notts IoT - 25-04-19\\Git Instructions\\MicrobitBluetooth\\MicrobitBluetooth.vbproj",
       "projectName": "MicrobitBluetooth",
-      "projectPath": "D:\\My Documents\\Visual Basic\\MicrobitBluetooth\\MicrobitBluetooth\\MicrobitBluetooth.vbproj",
+      "projectPath": "D:\\Dropbox\\PJG Creations\\Presentations\\MicroBit - April 2019\\Notts IoT - 25-04-19\\Git Instructions\\MicrobitBluetooth\\MicrobitBluetooth.vbproj",
       "packagesPath": "C:\\Users\\pete_\\.nuget\\packages\\",
-      "outputPath": "D:\\My Documents\\Visual Basic\\MicrobitBluetooth\\MicrobitBluetooth\\obj\\",
+      "outputPath": "D:\\Dropbox\\PJG Creations\\Presentations\\MicroBit - April 2019\\Notts IoT - 25-04-19\\Git Instructions\\MicrobitBluetooth\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

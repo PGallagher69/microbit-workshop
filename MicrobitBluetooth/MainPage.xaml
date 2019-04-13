@@ -9,8 +9,10 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-        <Button x:Name="cmdDisconecct" Content="Disconnect" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="174,107,0,0"/>
+        <Button x:Name="cmdDisconnect" Content="Disconnect" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="174,107,0,0"/>
         <Button x:Name="cmdConnect" Content="Connect" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="50,106,0,0"/>
+        <TextBox x:Name="txtMicrobitID" HorizontalAlignment="Left" Margin="50,57,0,0" Text="BluetoothLE#BluetoothLEbc:83:85:c7:93:21-c7:52:f2:24:9a:67" VerticalAlignment="Top" Width="199"/>
+        <TextBlock HorizontalAlignment="Left" Margin="50,33,0,0" Text="Micro:Bit ID:" TextWrapping="Wrap" VerticalAlignment="Top" Height="19" Width="199"/>
 
     </Grid>
 </Page>

@@ -13,14 +13,37 @@ Public NotInheritable Class MainPage
 
     Private Async Sub CmdConnect_Click(sender As Object, e As RoutedEventArgs) Handles cmdConnect.Click
 
-        MicroBit = Await BluetoothLEDevice.FromIdAsync("BluetoothLE#BluetoothLEbc:83:85:c7:93:21-c7:52:f2:24:9a:67")
+        MicroBit = Await BluetoothLEDevice.FromIdAsync(txtMicrobitID.Text)
 
         Dim result As GattDeviceServicesResult = Await MicroBit.GetGattServicesAsync(BluetoothCacheMode.Uncached)
 
         If result.Status = GattCommunicationStatus.Success Then
 
+            cmdConnect.IsEnabled = False
+            cmdDisconnect.IsEnabled = True
 
         End If
 
     End Sub
+
+    Private Sub cmdDisconnect_Click(sender As Object, e As RoutedEventArgs) Handles cmdDisconnect.Click
+
+        If MicroBit IsNot Nothing Then
+
+            MicroBit.Dispose()
+            MicroBit = Nothing
+
+            cmdConnect.IsEnabled = True
+            cmdDisconnect.IsEnabled = False
+
+        End If
+
+    End Sub
+
+    Private Sub MainPage_Loaded(sender As Object, e As RoutedEventArgs) Handles Me.Loaded
+        cmdConnect.IsEnabled = True
+        cmdDisconnect.IsEnabled = False
+
+    End Sub
+
 End Class
