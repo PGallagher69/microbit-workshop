@@ -49,4 +49,4 @@
 
 | Previous | Next |
 | -------- | ---- |
-| [< Step 6 - Radio Send Number](6-radio-send-number.md) | [Step 8 - New Project >](8-new-project.md) |
+| [< Step 6 - Radio Send Number](6-radio-send-number.md) | [Step 8 - Pairing the Micro:Bit >](8-pairing-microbit.md) |

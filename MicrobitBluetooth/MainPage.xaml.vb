@@ -2,12 +2,16 @@
 
 Imports Windows.Devices.Bluetooth
 Imports Windows.Devices.Bluetooth.GenericAttributeProfile
+Imports Windows.Devices.Enumeration
 
 ''' <summary>
 ''' An empty page that can be used on its own or navigated to within a Frame.
 ''' </summary>
 Public NotInheritable Class MainPage
     Inherits Page
+
+    Dim wdwDeviceWatcher As DeviceWatcher
+
 
     Dim MicroBit As BluetoothLEDevice
 
@@ -43,6 +47,15 @@ Public NotInheritable Class MainPage
     Private Sub MainPage_Loaded(sender As Object, e As RoutedEventArgs) Handles Me.Loaded
         cmdConnect.IsEnabled = True
         cmdDisconnect.IsEnabled = False
+
+    End Sub
+
+
+    Private Sub StartDeviceWatcher()
+
+        Dim strRequestedProperties As String() = {"System.Devices.Aep.DeviceAddress", "System.Devices.Aep.IsConnected", "System.Devices.Aep.Bluetooth.Le.IsConnectable"}
+        Dim strAllBluetoothDevices As String = "(System.Devices.Aep.ProtocolId:=""{bb7bb05e-5972-42b5-94Fc-76eaa7084d49}\"")"
+
 
     End Sub
 
