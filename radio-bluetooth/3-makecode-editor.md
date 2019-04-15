@@ -10,4 +10,4 @@ The MakeCode Editor will be shown
 
 | Previous | Next |
 | -------- | ---- |
-| [< Step 2 - New Project](2-new-project.md) | [Step 4 - Input Toolbox >](4-input-toolbox.md) |
+| [< Step 2 - New Project](2-new-project.md) | [Step 4 - Radio Toolbox >](4-radio-toolbox.md) |
