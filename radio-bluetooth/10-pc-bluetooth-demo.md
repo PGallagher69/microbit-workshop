@@ -7,7 +7,7 @@ In this section we'll try out a simple PC Bluetooth Demo Application which allow
 - Open the Micobit Bluetooth Application solution in Visual Studio 2017 and run it;
 
 <p align="center">
-    <img src="images/9-bluetooth-toolbox.jpg" width="500px" >
+    <img src="images/10-microbit-bluetooth-uwp-app.jpg" width="500px" >
 </p>
 
 - You'll see that we need to enter an ID for our Micro:Bit. Now that we have aour Micro:Bit paired to the PC, we can retrieve that ID from the Device Manager.
