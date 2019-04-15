@@ -81,4 +81,4 @@ In this section we'll try out a simple PC Bluetooth Demo Application which allow
 
 | Previous | Next |
 | -------- | ---- |
-| [< Step 8 - Pair the Micro:Bit](8-pair-microbit.md) | [Step 10 - PC Bluetooth Demo >](10-pc-bluetooth-demo.md) |
+| [< Step 9 - Micro:Bit Bluetooth](9-microbit-bluetooth.md) |[ Introduction >](/README.md) |
