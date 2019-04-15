@@ -1,0 +1,2 @@
+MainPackage=D:\Dropbox\PJG Creations\Presentations\MicroBit - April 2019\Notts IoT - 25-04-19\Git Instructions\MicrobitBluetooth\bin\x86\Release\Upload\MicrobitBluetooth_1.0.5.0_x86.msix
+SymbolPackage=D:\Dropbox\PJG Creations\Presentations\MicroBit - April 2019\Notts IoT - 25-04-19\Git Instructions\MicrobitBluetooth\bin\x86\Release\Upload\MicrobitBluetooth_1.0.5.0\MicrobitBluetooth_1.0.5.0_x86.appxsym

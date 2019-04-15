@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
-  <Identity Name="3ca5f09e-2c5d-45e0-9f16-9bf9ba3b8153" Publisher="CN=pete_" Version="1.0.0.0" />
-  <mp:PhoneIdentity PhoneProductId="3ca5f09e-2c5d-45e0-9f16-9bf9ba3b8153" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Identity Name="PJGCreationsLtd.MicrobitBluetooth" Publisher="CN=6FEAE881-E1D6-4EEB-9562-3BA8AB1D4133" Version="1.0.2.0" />
+  <mp:PhoneIdentity PhoneProductId="bbb7065c-0f24-4062-be7a-8ae0de5b2eef" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>MicrobitBluetooth</DisplayName>
-    <PublisherDisplayName>pete_</PublisherDisplayName>
+    <PublisherDisplayName>PJG Creations Ltd</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
   <Dependencies>

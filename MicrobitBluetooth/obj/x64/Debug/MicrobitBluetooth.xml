@@ -11,6 +11,11 @@ MicrobitBluetooth
  Provides application-specific behavior to supplement the default Application class.
  </summary>
 </member>
+<member name="M:MicrobitBluetooth.App.#ctor">
+ <summary>
+ Initializes a new instance of the App class.
+ </summary>
+</member>
 <member name="M:MicrobitBluetooth.App.OnLaunched(Windows.ApplicationModel.Activation.LaunchActivatedEventArgs)">
  <summary>
  Invoked when the application is launched normally by the end user.  Other entry points

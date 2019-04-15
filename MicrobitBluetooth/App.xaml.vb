@@ -1,8 +1,17 @@
-﻿''' <summary>
+﻿Imports Microsoft.HockeyApp
+''' <summary>
 ''' Provides application-specific behavior to supplement the default Application class.
 ''' </summary>
 NotInheritable Class App
     Inherits Application
+
+    ''' <summary>
+    ''' Initializes a new instance of the App class.
+    ''' </summary>
+    Public Sub New()
+        Microsoft.HockeyApp.HockeyClient.Current.Configure("cff77a79015a4ccfb87a05a648d983d4")
+        InitializeComponent()
+    End Sub
 
     ''' <summary>
     ''' Invoked when the application is launched normally by the end user.  Other entry points
