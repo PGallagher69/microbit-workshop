@@ -38,4 +38,4 @@ https://makecode.microbit.org/device/usb/webusb/troubleshoot
 
 | Previous | Next |
 | -------- | ---- |
-| [< Step 4 - Serial Toolbox](4-serial-toolbox.md) | [Step 6 - Pair Micro:Bit >](6-pair-microbit.md) |
+| [< Step 5 - Com Port Setup](5-com-port-setup.md) | [Step 7 - Device to PC Comms >](7-device-to-pc-comms.md) |
