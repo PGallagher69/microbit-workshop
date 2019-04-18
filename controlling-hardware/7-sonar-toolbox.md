@@ -36,4 +36,4 @@
 
 | Previous | Next |
 | -------- | ---- |
-| [< Step 6 - Sonar Extension](6-sonar-extension.md) | [Step 7 - Sonar Toolbox >](7-sonar-toolbox.md) |
+| [< Step 6 - Sonar Extension](6-sonar-extension.md) | [Introduction >](/README.md) |
