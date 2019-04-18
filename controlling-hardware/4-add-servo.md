@@ -9,7 +9,7 @@
     <img src="images/4-pins-toolbox.jpg" width="500px" >
 </p>
 
-- Drag a "Servo Write Pin (P)) to (180)" Block onto the "Forever" Block;
+- Drag a "Servo Write Pin (P0) to (180)" Block onto the "Forever" Block;
 
 <p align="center">
     <img src="images/4-servo-write-pin-block.jpg" width="250px" >
@@ -23,4 +23,4 @@
 
 | Previous | Next |
 | -------- | ---- |
-| [< Step 3 - MakeCode Editor](3-makecode-editor.md) | [Step 5 - Move the Servo >](4-move-servo.md) |
+| [< Step 3 - MakeCode Editor](3-makecode-editor.md) | [Step 5 - Move the Servo >](5-move-servo.md) |
