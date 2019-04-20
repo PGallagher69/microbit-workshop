@@ -56,4 +56,4 @@ namespace hello {
 
 | Previous | Next |
 | -------- | ---- |
-| [< Step 9 - Commit and Build](9-commit-and-build.md) | [Step 11 - Adding a Block >](11-adding-block.md) |
+| [< Step 10 - Use the extension](10-use-extension.md) | [Step 12 - Adding a Block Parameter >](12-adding-block-parameter.md) |
