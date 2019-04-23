@@ -4,6 +4,8 @@ In this section we'll read our phone's orientation and display it as an arrow on
 
 However, every time we flash a new program to our Micro:Bit, it breaks the pairing, so we must unpair and repair our device every time. 
 
+First though, we'll create and flash an app to the Micro:Bit...
+
 ## Step 13 - Reading the Phone's Orientation ##
 
 - Return to your Android Bluetooth program in MakeCode;

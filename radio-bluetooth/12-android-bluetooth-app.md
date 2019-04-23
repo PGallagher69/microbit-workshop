@@ -1,8 +1,6 @@
 # Radio and Bluetooth #
 
-In this section we'll try out a the SAmsung Micro:Bit app for Android. This app allows you to connect your Micro:Bit to your mobile phone and control both your Micro:Bit from your phone and visa-versa. 
-
-First, we'll create an app to use with the app.
+We'll now install the Samsung Micro:Bit app from the Android App Store...
 
 ## Step 12 - Samsung Micro:Bit App for Android ##
 

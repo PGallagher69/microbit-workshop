@@ -79,4 +79,4 @@ https://support.microbit.org/support/solutions/articles/19000051025
 
 | Previous | Next |
 | -------- | ---- |
-| [< Step 7 - New Project Bluetooth](7-new-project-bluetooth.md) | [Step 9 - Micro:Bit Blue Code >](9-microbit-bluetooth.md) |
+| [< Step 7 - New Project Bluetooth](7-new-project-bluetooth.md) | [Step 9 - Micro:Bit Bluetooth Code >](9-microbit-bluetooth.md) |
