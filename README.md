@@ -17,3 +17,4 @@ Welcome to the Workshop Instructions for the "BBC Micro:Bit - It does (way) more
 4. [Radio and Bluetooth](/radio-bluetooth/README.md)
 5. [Serial Communications](/serial-communications/README.md)
 6. [Controlling Hardware](/controlling-hardware/README.md)
+7. [Building an Extension](/building-an-extension/README.md)
