@@ -41,7 +41,7 @@
 </p>
 
 - Press the "Remove extension(s) and add bluetooth" button.
-- You will return to the MakeCode Editor, and instead of a Radio Toolbox Section, you'll now have a Radio Toolbox Section;
+- You will return to the MakeCode Editor, and instead of a Radio Toolbox Section, you'll now have a Bluetooth Toolbox Section;
 
 <p align="center">
     <img src="images/7-bluetooth-section.jpg" width="250px" >

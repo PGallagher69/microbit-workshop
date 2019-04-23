@@ -81,4 +81,4 @@ In this section we'll try out a simple PC Bluetooth Demo Application which allow
 
 | Previous | Next |
 | -------- | ---- |
-| [< Step 9 - Micro:Bit Bluetooth](9-microbit-bluetooth.md) |[ Introduction >](/README.md) |
+| [< Step 9 - Micro:Bit Bluetooth](9-microbit-bluetooth.md) |[ Step 11 - Andoird Micro:Bit App - Test Program >](11-android-bluetooth-app-program.md) |
