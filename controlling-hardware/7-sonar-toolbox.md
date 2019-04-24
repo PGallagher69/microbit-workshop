@@ -34,6 +34,10 @@
 - Go ahead and give your project a name and save the HEX file to a location on your machine.
 - Program your Micro:Bit with your code, and you will be able to give the HC-SR04 a go...
 
+- You can download an example HEX file here;
+
+<a href="hex/microbit-Radar.hex">Sonar</a>
+
 | Previous | Next |
 | -------- | ---- |
 | [< Step 6 - Sonar Extension](6-sonar-extension.md) | [Introduction >](/README.md) |

@@ -40,6 +40,14 @@
 
 https://makecode.microbit.org/_T5UaoK9R3d5z
 
+- Go ahead and give your project a name and save the HEX file to a location on your machine.
+- Program your Micro:Bit with your code, and you will be able to give the Radio Communications a go...
+- Obviously you'll need two Micro:Bits to make this work!
+
+- You can download an example HEX file here;
+
+<a href="hex/microbit-Radio.hex">Radio</a>
+
 | Previous | Next |
 | -------- | ---- |
 | [< Step 5 - Radio Received](5-radio-received.md) | [Step 7 - New Bluetooth Project >](7-new-project-bluetooth.md) |

@@ -94,6 +94,10 @@ First, we'll create an app to use with the app.
 
 - Program your Micro:Bit with the demo program we've just created.
 
+- You can download an example HEX file here;
+
+<a href="hex/microbit-Bluetooth.hex">Bluetooth</a>
+
 | Previous | Next |
 | -------- | ---- |
 | [< Step 10 - PC Bluetooth Demo](10-pc-bluetooth-demo.md) |[ Step 12 - Android Micro:Bit App >](12-android-bluetooth-app.md) |

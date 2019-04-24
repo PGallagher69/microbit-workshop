@@ -106,6 +106,10 @@ Likewise, letting the Micro:Bit return to centre clears the screen as expected.
 
 - Once again, enter a name for your project, hit the Save Button and save the HEX file to a location on your computer.
 
+- You can download an example HEX file here;
+
+<a href="hex/microbit-Sensors.hex">Sensors</a>
+
 | Previous | Next |
 | -------- | ---- |
 | [< Step 11 - Add Clear Screen](11-add-clear-screen.md) | [ Introduction >](/README.md) |

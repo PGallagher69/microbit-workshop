@@ -28,6 +28,13 @@
     <img src="images/5-servo-move.gif" width="250px" >
 </p>
 
+- Go ahead and give your project a name and save the HEX file to a location on your machine.
+- Program your Micro:Bit with your code, and you will be able to give a real Servo a go...
+
+- You can download an example HEX file here;
+
+<a href="hex/microbit-Servo-Move.hex">Move Servo</a>
+
 | Previous | Next |
 | -------- | ---- |
 | [< Step 4 - Add a Servo](4-add-servo.md) | [Step 6 - Sonar Extension >](6-sonar-extension.md) |

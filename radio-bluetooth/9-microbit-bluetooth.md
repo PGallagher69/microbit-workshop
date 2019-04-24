@@ -42,6 +42,10 @@ In this section we'll add some simple blocks that will show an icon when the Mic
 
 - Give your project a name, download the HEX file and flash it to your Micro:Bit.
 
+- You can download an example HEX file here;
+
+<a href="hex/microbit-Bluetooth.hex">Bluetooth</a>
+
 | Previous | Next |
 | -------- | ---- |
 | [< Step 8 - Pair the Micro:Bit](8-pair-microbit.md) | [Step 10 - PC Bluetooth Demo >](10-pc-bluetooth-demo.md) |

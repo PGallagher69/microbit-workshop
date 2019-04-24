@@ -35,6 +35,10 @@
     <img src="images/6-device-serial-monitor-changes.jpg" width="500px" >
 </p>
 
+- You can download an example HEX file here;
+
+<a href="hex/microbit-Serial-Comms.hex">Sensors</a>
+
 | Previous | Next |
 | -------- | ---- |
 | [< Step 6 - Pair Device](6-pair-device.md) | [Introduction >](/README.md) |

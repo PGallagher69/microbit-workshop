@@ -54,6 +54,10 @@ First though, we'll create and flash an app to the Micro:Bit...
 - Save your project and download the HEX file to a location on your computer.
 - Flash the HEX file to your Micro:Bit.
 
+- You can download an example HEX file here;
+
+<a href="hex/microbit-Android-Bluetooth-Check.hex">Bluetooth</a>
+
 | Previous | Next |
 | -------- | ---- |
 | [< Step 12 - Andoird Micro:Bit App - Test Program](12-android-bluetooth-app.md) |[ Step 14 - Re-Pair the Micro:Bit >](14-android-bluetooth-re-pair.md) |

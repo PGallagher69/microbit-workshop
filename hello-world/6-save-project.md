@@ -20,6 +20,10 @@
     <img src="images/6-save-project.jpg" width="500px" >
 </p>
 
+- You can download an example HEX file here;
+
+<a href="hex/microbit-Hello-World.hex">Hello World</a>
+
 | Previous | Next |
 | -------- | ---- |
 | [< Step 5 - View Result](5-view-result.md) | [ Introduction >](/README.md) |
