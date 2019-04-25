@@ -9,20 +9,20 @@ As a result, you need to un-pair and re-pair your micro:bit each time you flash 
 - Go to your phone's BLuetooth Settings;
 
 <p align="center">
-    <img src="images/14-android-bluetooth-list.jpg" width="500px" >
+    <img src="images/14-android-bluetooth-list.jpg" width="250px" >
 </p>
 
 - Go to the settings for the "BBC micro:bit";
 
 <p align="center">
-    <img src="images/14-android-bluetooth-unpair.jpg" width="500px" >
+    <img src="images/14-android-bluetooth-unpair.jpg" width="250px" >
 </p>
 
 - Press the "Unpair" button.
 - Your Micro:Bit should be unpaired;
 
 <p align="center">
-    <img src="images/14-android-bluetooth-unpaired.jpg" width="500px" >
+    <img src="images/14-android-bluetooth-unpaired.jpg" width="250px" >
 </p>
 
 - Return to your Micro:Bit Android Application.
