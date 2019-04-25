@@ -59,4 +59,4 @@ Travis CI builds are triggerred automatically when we Commit our code to our Git
 
 | Previous | Next |
 | -------- | ---- |
-| [< Step 8 - Automated Build](8-automated-build.md) | [Step 10 - Using our Extension >](10-using-extension.md) |
+| [< Step 8 - Automated Build](8-automated-build.md) | [Step 10 - Using our Extension >](10-use-extension.md) |
